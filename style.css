@@ -65,7 +65,7 @@ canvas:nth-child(2) {
 }
 
 .buttons {
-    margin-top: -34vh;
+    margin-top: -18em;
     text-align: center;
     min-width: 300px;
     display: flex;
